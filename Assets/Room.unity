@@ -978,12 +978,12 @@ PrefabInstance:
     - target: {fileID: -8688922982703498315, guid: f1670425b980e2e45849eb34982f4282,
         type: 3}
       propertyPath: m_BlendShapeWeights.Array.data[3]
-      value: 20
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -8688922982703498315, guid: f1670425b980e2e45849eb34982f4282,
         type: 3}
       propertyPath: m_BlendShapeWeights.Array.data[4]
-      value: 48
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -8688922982703498315, guid: f1670425b980e2e45849eb34982f4282,
         type: 3}
@@ -1003,22 +1003,22 @@ PrefabInstance:
     - target: {fileID: -8688922982703498315, guid: f1670425b980e2e45849eb34982f4282,
         type: 3}
       propertyPath: m_BlendShapeWeights.Array.data[8]
-      value: 100
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -8688922982703498315, guid: f1670425b980e2e45849eb34982f4282,
         type: 3}
       propertyPath: m_BlendShapeWeights.Array.data[9]
-      value: 100
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -8688922982703498315, guid: f1670425b980e2e45849eb34982f4282,
         type: 3}
       propertyPath: m_BlendShapeWeights.Array.data[10]
-      value: 100
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -8688922982703498315, guid: f1670425b980e2e45849eb34982f4282,
         type: 3}
       propertyPath: m_BlendShapeWeights.Array.data[11]
-      value: 100
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -8688922982703498315, guid: f1670425b980e2e45849eb34982f4282,
         type: 3}
@@ -1058,12 +1058,12 @@ PrefabInstance:
     - target: {fileID: -8688922982703498315, guid: f1670425b980e2e45849eb34982f4282,
         type: 3}
       propertyPath: m_BlendShapeWeights.Array.data[19]
-      value: 60
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -8688922982703498315, guid: f1670425b980e2e45849eb34982f4282,
         type: 3}
       propertyPath: m_BlendShapeWeights.Array.data[20]
-      value: 65
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -8688922982703498315, guid: f1670425b980e2e45849eb34982f4282,
         type: 3}
@@ -1113,17 +1113,17 @@ PrefabInstance:
     - target: {fileID: -8688922982703498315, guid: f1670425b980e2e45849eb34982f4282,
         type: 3}
       propertyPath: m_BlendShapeWeights.Array.data[30]
-      value: 8
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -8688922982703498315, guid: f1670425b980e2e45849eb34982f4282,
         type: 3}
       propertyPath: m_BlendShapeWeights.Array.data[31]
-      value: 20
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -8688922982703498315, guid: f1670425b980e2e45849eb34982f4282,
         type: 3}
       propertyPath: m_BlendShapeWeights.Array.data[32]
-      value: 21
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -8688922982703498315, guid: f1670425b980e2e45849eb34982f4282,
         type: 3}
@@ -1158,7 +1158,7 @@ PrefabInstance:
     - target: {fileID: -8688922982703498315, guid: f1670425b980e2e45849eb34982f4282,
         type: 3}
       propertyPath: m_BlendShapeWeights.Array.data[39]
-      value: 50
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -8688922982703498315, guid: f1670425b980e2e45849eb34982f4282,
         type: 3}
@@ -1298,7 +1298,7 @@ PrefabInstance:
     - target: {fileID: -8688922982703498315, guid: f1670425b980e2e45849eb34982f4282,
         type: 3}
       propertyPath: m_BlendShapeWeights.Array.data[67]
-      value: 90.5
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -7449955640848556601, guid: f1670425b980e2e45849eb34982f4282,
         type: 3}
@@ -1308,7 +1308,7 @@ PrefabInstance:
     - target: {fileID: -7449955640848556601, guid: f1670425b980e2e45849eb34982f4282,
         type: 3}
       propertyPath: m_BlendShapeWeights.Array.data[0]
-      value: 100
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -6057140222963153312, guid: f1670425b980e2e45849eb34982f4282,
         type: 3}
